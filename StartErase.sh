@@ -1,0 +1,1 @@
+roxterm -T "Erase" -e /media/sdb1/ErasePartition.sh
